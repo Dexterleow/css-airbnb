@@ -1,0 +1,78 @@
+
+
+
+body{
+background-color:#edefec;
+font-family : 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #000000;
+}
+
+.container{
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.introduction{
+text-align: center;
+color:#000000;
+}
+
+.guides{
+text-align: center;
+}
+
+button {
+  width: 200px;
+  margin-top: 10px;
+  padding:5px;
+  /*margin: 10px auto;*/
+}
+
+img {
+height:180px;
+width:180px;
+}
+
+.column-left{ float: left; width: 33%; }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
+
+h3 {
+   position:absolute;
+   color:white;
+   font: bold 20px Sans-Serif;
+   padding:3%;
+   margin-top:2%;
+   margin-left: 1%;
+   margin-right: 1%
+   margin-bottom:5%;
+   text-align: center;
+}
+
+.sandf {
+  position:absolute;
+  color:white;
+  font: bold 20px Sans-Serif;
+  padding:2%;
+  margin-top:3%;
+  margin-left: 0.003%;
+  margin-right: 5%;
+  margin-bottom:5%;
+  text-align: center;
+}
+
+.napa {
+  position:absolute;
+  color:white;
+  font: bold 20px Sans-Serif;
+  padding:2%;
+  margin-top:3%;
+  margin-left: 3%;
+  margin-right: 5%;
+  margin-bottom:5%;
+  text-align: center;
+}
